@@ -12,8 +12,11 @@
   "type": "module",
   "description": "",
   "dependencies": {
+    "@clerk/express": "^1.7.76",
+    "cloudinary": "^2.9.0",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
+    "mongoose": "^9.2.3",
     "native-ecommerce": "file:.."
   }
 }
